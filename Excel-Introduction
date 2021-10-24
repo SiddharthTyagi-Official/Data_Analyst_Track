@@ -1,0 +1,39 @@
+#Structure
+1.Above is ribbon( Home , Insert, page layout etc)
+2.then workspace area it have 16284 columns every row denoted by number 1,048,576
+3.we can many sheets as much we need just by doing click on plus button to delete sheet right click on sheet name and delete
+4.name box above workspace it display coordinates of cell and then formula bar which shows which function we use
+
+#Data Entry
+1.Data Entry is simple just type and arrow key for change row and column
+2.We can F2 to edit the cell
+3.We can use delete icon to delete cell while clear will wipe out the value in that cell
+
+#Formatting
+1.Wechange font size and font as much you need just have to slect data
+2.Wean do bold the entries by Clicking B or Ctrl + B
+3.We can put borders as per requirment just by clicking on Border icon and by formatting
+4.We can align as per need
+5.We can change the fill of data
+Changing font color and size make the data for look nice
+7.We can reszie the Row and Column size
+
+#Formula basic
+1.Click F2 and start with "=" it will enter in formula zone
+2.You can use values and cell refernce for using formula
+3.While writimg formula you can click on cell or you can move arrow to select cell to get cell reference
+
+#Function Basic
+1.First select the cell then = then Function
+2.We can click fx icon right to formula bar and get the list of all functions
+4.Then by Double clicking the function we will get the logical test or value do accordingly
+
+Work efficient by using Cut,Copy and paste
+Ctrl+C
+Ctrl+V
+Ctrl+X
+
+#Formatting 2
+1.Right click on cell then format cells
+2.Paste Special you can open from Home tab or by Alt+E+S
+it allow you to choose options
