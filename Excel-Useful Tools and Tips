@@ -1,0 +1,47 @@
+*Line Break = Alt + Enter
+
+*Text to columns= Data Menu ---> Text to columns --> select criteria ( there will be preview)
+
+*Set Print Area= Select area--> Page Layout--> Set print area
+
+*Wrap Text--> Wrap Text button in the Home Menu
+
+*Insert Hyperlinks-->Inser-->Hyper Link-->place in the document ( select as we need )
+
+*Freeze Panes( Used in table or huge data)= View Menu-->Freeze Panes ( you can unfreeze from the same )
+
+
+*Find = Go to Tell me what you want to do( You will get all excel function there)
+
+*Pivot Tables= Select the data--> Insert Menu--> Pivot table --> We can select and analyse as per need from the Data
+
+*Macros= Enable Developer tab in Menu ( Right click on menu then edit ribon)
+Click Record Macro, Now your every moment will be recorded in excel 
+once it will be recorded it will be applied to new worksheet when you want
+after recording then stop recording then 
+by clicking on Macros in developer tab you will get all recorded macro
+
+*Fast Scrolling = Ctrl + ( Arrow Keys )
+ctrl+ shift + (Arrow keys ) -- to select data
+
+*Quicker-( when you have lots of data where many formulas are applied you will get to the data input just by Doing Double click we wiil get to the sheet and you will get back with the help of F5+Enter
+
+*Cell references
+Put "$" sign infront of letter or number you want to fix in formula bar
+
+*Find and Select 
+select range of data
+select F5 --> Special and selected type of data or cell you want 
+Eg:- you want to put N/A on blank then type N/A outside the table and copy it and select the blank cell then just paste N/A
+
+*Dynamic Names
+-In this we will make text formula
++Select the Text --> Formula Bar--> Put = infront of text then put text in double Quote
++then put 'AND'(Function) then select the other text you need 
++in this if you change the text in cell we select it will change automatically in cell where we applied the formula
+
+*Drop Down Menu
+Select the range of cell -->Data Tab --> Data Validation --> and select the cell 
+if you want option of typing then go to data validation then error and we can turn off the error option then we can write or over write the selected option too
+
+
