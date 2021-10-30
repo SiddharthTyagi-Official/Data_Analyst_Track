@@ -75,5 +75,27 @@ File-->Options-->formulas--> Uncheck the background error checking
 F2 use to edit the cell content or formula
 Files-->Options-->advanced--> allow edit in the cell
 
+*Conditional Formatting 
++Home Ribon-->Conditional Formatting
+We can bring the visualization to the data or data in cell 
+We can custom edit the rule if needed in the conditional Formatting Rules manager
+We can clear the rules by clicking clear the rules
+
+*Custom Cell Formatting
+ +Format cells( Ctrl + 1) 
+ we can use inbuilt formatting or we can make custom
+ ++Principles of Custom Formatting
+ -->Four fields separated by ; or ,
+ 1.Positive Numbers
+ 2.Negative Numbers
+ 3.How to display Os
+ 4.How to display text
+ # vs 0:Types of placeholders used
+ #-Flexible placeholders
+ 0-Fixed placeholders
+ 
+ 
+ When we make c
+
 
 
