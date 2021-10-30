@@ -44,4 +44,36 @@ Eg:- you want to put N/A on blank then type N/A outside the table and copy it an
 Select the range of cell -->Data Tab --> Data Validation --> and select the cell 
 if you want option of typing then go to data validation then error and we can turn off the error option then we can write or over write the selected option too
 
+30/10
+*Custom Sort
++Select data then sort & Filter 
+-->Custom Sort-->Sort by, sort on, order
+
+*Keyboard Shortcuts
+Ctrl + C
+Ctrl + V
+Ctrl + X
+By Pressing ALT we will open ribbon shortcut Alphabet then you can press the ribon shortcut alphabet then click on function shortcut alphabet
+
+File-->Options-->Quick access Toolbar--> select option click add or remove
+Alt + 1 ( to bring fiters)
+
+*Multiply by 1
+sometimes excel does not detect the number because of before done formatting
+then just multiply by 1 then you can find the error
+
+*Find and replace
+Ctrl + H
+use to find the refrence and can replace with needed value
++Formatting
+then format and select the formatting then can replace with needed one formatting
+
+*Green References
+File-->Options-->formulas--> Uncheck the background error checking
+
+*Power of F2
+F2 use to edit the cell content or formula
+Files-->Options-->advanced--> allow edit in the cell
+
+
 
