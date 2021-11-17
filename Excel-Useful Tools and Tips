@@ -33,7 +33,8 @@ Put "$" sign infront of letter or number you want to fix in formula bar
 select range of data
 select F5 --> Special and selected type of data or cell you want 
 Eg:- you want to put N/A on blank then type N/A outside the table and copy it and select the blank cell then just paste N/A
-
+------------------------------------------------------------------------------------------------------------------------------------
+17-11
 *Dynamic Names
 -In this we will make text formula
 +Select the Text --> Formula Bar--> Put = infront of text then put text in double Quote
