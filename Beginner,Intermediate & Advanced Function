@@ -1,0 +1,13 @@
+19-11
+# If Function
+check condition match or not ( yes or no simply)
+
+# Sum,Sumif,Sumifs  Function
+=Sum(select cells)
+=Sumif(range,criteria,[Summ_range])
+=Sumifs(sum_range,range1,criteria1,[range2],[criteria2],...)
+
+#Count,Counta,Countif
+=count(selected range)   count number
+=Counta(selected range)  count number and text with non empty cell 
+=Countif count with specified condition
