@@ -1,0 +1,32 @@
+let our Data have some rows
+Sales Person	Geography	Product	Amount	Units	Cost per unit	Cost
+
+# Quick statistics
+  Average--> =AVERAGE(data[Amount])
+  Median--> =MEDIAN(data[Amount])
+  Minimum--> =MIN(data[Amount])
+  Maximum--> =MAX(Data[Amount])
+  Range--> Max- Min
+  First Quadrant--> =PERCENTILE.EXC(data[Amount],0.25)
+  Third Quadrant-->  =PERCENTILE.EXC(data[Amount],0.75)
+  
+# Exploratory Data Analysis (EDA) with CF
+  Select Amount Column then conditional Formatting then color scales
+  then go to manage rules and edit the rule as per analysis required
+  even we can mark duplicate and top 10 values with CF 
+  
+#Sales by country (with formulas)
+  Fist go to the Data then select the whole geography column then paste then
+  go to the Data and select remove duplicate you will unique value
+  Then for get amount for each Country will use this formula 
+  =SUMIFS(data[Amount],data[Geography],C6/C7....)
+  then for get unit 
+  =SUMIFS(data[Units],data[Geography],C6/C7....)
+  
+  Now we have to make that data Creative first sort by amount
+  then insert a column then copy and paste the data of amount column 
+  thereafter we have to go Data bar then manage rules-- edit rules
+  then show bars only
+  make header fill with some light colour
+  make unit values font colour different so that it become eye catching and insightfull
+  
